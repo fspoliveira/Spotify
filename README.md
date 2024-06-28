@@ -19,7 +19,7 @@ Este é um programa em Python que permite a criação de uma playlist colaborati
 
 1. Clone este repositório:
     ```bash
-    git clone https://github.com/seu_usuario/seu_repositorio.git
+    git clone https://github.com/fspoliveira/Spotify
     cd seu_repositorio
     ```
 
